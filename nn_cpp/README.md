@@ -1,0 +1,4 @@
+C++ for Artificial Neural Network
+---------------------------------
+
+The C++ neural network is implemented with the aid of [Eigen library](http://eigen.tuxfamily.org/index.php?title=Main_Page) which makes the computation highly vectorized using matrix operations. The neural network is built for general purpose. The architecture of the neural network could be defined by the user arbitrarily. The code supports many machine learning techiques, e.g. batch/mini-batch/stochastic gradient descent, different weight initialization methods, regularization, learning rate decay, momentum, early stopping, etc.
